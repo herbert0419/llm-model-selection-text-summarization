@@ -1,11 +1,11 @@
 ollama
-chromadb
+# chromadb
 streamlit 
 pdfplumber 
-langchain
+langchain==0.2.3
 langchain-core
 langchain-community
 langchain_text_splitters
-unstructured
-unstructured[all-docs]
+# unstructured=0.2.4
+# unstructured[all-docs]
 onnx==1.16.1
