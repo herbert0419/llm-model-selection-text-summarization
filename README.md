@@ -19,3 +19,32 @@
       ```bash
       streamlit run streamlit_app.py
       ``` 
+
+4. **Running Terminal in Colab**: Execute
+      ```bash
+      !pip install colab-xterm
+      ```
+
+5. **Load the installed Terminal**: Execute
+      ```bash
+      %load_ext colabxterm
+      ```
+
+6. **Run the loaded Terminal**: Execute
+      ```bash
+      %xterm
+      ```
+
+7. **Install ollama in colab terminal**: Execute
+      ```bash
+      curl -fsSL https://ollama.com/install.sh | sh
+      ```
+
+8. **Run & serve Ollama**: Execute
+      ```bash
+      ollama serve
+      ```
+
+      ```bash
+      ollama pull llama3:latest
+      ```
