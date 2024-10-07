@@ -5,7 +5,7 @@
 1. **Clone repo**: Run this in your terminal 
 
       ```bash
-      git clone https://github.com/tonykipkemboi/ollama_pdf_rag.git
+      git clone https://github.com/herbert0419/llm-model-selection-text-summarization.git
       ```
 
 2. **Install Dependencies**: Execute to install dependencies
